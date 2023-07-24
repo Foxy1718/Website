@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>ДЗ 28.06</title>
+ <main> 
+ <style>
+ body{
+   background-color: blue;
+ }
+ div {font-size: 20px;}
+ </style>
+</head>
+<div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi debitis neque animi repellat dignissimos perspiciatis. Facilis, eos! Ea voluptatibus iure numquam, quas aliquam, alias rem, aperiam odit doloribus facere asperiores.</div>
+</main>
+</body>
+</html>
